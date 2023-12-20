@@ -1,6 +1,7 @@
 # egyhealthcare
 
 A new Flutter project.
+The egyhealthcare application was my graduation project from the university, and its goal is to help the patient meet his needs, find the closest areas near him, and follow up with a doctor to diagnose the condition. I sought help from some of my colleagues in the project, who was the target of the data used in the application and helps in creating a distinctive design for success.
 
 ## Getting Started
 
